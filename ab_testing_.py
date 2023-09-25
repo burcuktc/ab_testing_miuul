@@ -1,5 +1,7 @@
 #AB Testing
 #Veri bilimi alanında en çok kullanılan yöntemlerden birisidir.
+#AB Testi sektörde birçok yerde karşımıza çıkabilecek olan istatistiki bir metoddur. Örneğin bir eticaret sitesinde sepete ekle butonunun rengi değiştirilmek isteniyor, ancak yapılacak değişikliğin satışlara nasıl bir etkisinin olacağı bilinmiyor. Bu durumda yapılacak değişikliğin etkisi istatistiki olarak AB testi ile kanıtlabilir.
+#Başka bir örnek olarak oyun zorluk seviyelerinin kolay mı yoksa zor mu yapmanız gerektiği bilgisini elde edinmek ve buna göre bölüm atlama zorlukları belirlenmek için AB testi kullanılabilir 
 # #A bir özelliği ya da bir grubu temsil etsin B farklı bir özelliği ya da grubu temsil etsin. Bu ikisi arasında farklılık olup olmadığı ile ilgilendiğimiz konudur.
 # Temel İstatistik Kavramları
 #Sampling(Örnekleme): Örneklem, bir ana kitle içerisinden bu ana kitlenin özelliklerini iyi temsil ettiği varsayılan temsilcisidir.
